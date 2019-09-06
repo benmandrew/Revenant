@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - NonCollidable
+  - DamnedPoolController
+  - UI
+  - BatPoolController
+  - Walls
+  - BloaterPoolController
+  - Cloud
+  - Wave Manager
+  - JumperPoolController
+  - FireBallPool
+  - ShieldPoolController
+  - Trader
+  - BulletPool
+  - ItemPool
+  - DeathMenu
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Player
+  - Enemies
+  - Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4074830731
+    locked: 0
+  - name: Spawners
+    uniqueID: 1983012419
+    locked: 0
+  - name: Items
+    uniqueID: 2950136923
+    locked: 0
+  - name: Player
+    uniqueID: 2112054167
+    locked: 0
+  - name: Enemies
+    uniqueID: 1015408803
+    locked: 0
+  - name: Projectiles
+    uniqueID: 1709194077
+    locked: 0
+  - name: Clouds
+    uniqueID: 3370950945
+    locked: 0
+  - name: UI
+    uniqueID: 3773909403
+    locked: 0
